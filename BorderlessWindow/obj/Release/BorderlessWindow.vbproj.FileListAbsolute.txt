@@ -1,0 +1,11 @@
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\bin\Release\BorderlessWindow.dll
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\bin\Release\BorderlessWindow.pdb
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\bin\Release\BorderlessWindow.xml
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\obj\Release\BorderlessWindow.BorderlessWindow.resources
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\obj\Release\BorderlessWindow.Resources.resources
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\obj\Release\BorderlessWindow.vbproj.GenerateResource.Cache
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\obj\Release\BorderlessWindow.vbproj.CoreCompileInputs.cache
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\obj\Release\BorderlessWindow.dll
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\obj\Release\BorderlessWindow.xml
+c:\users\sébastien\source\repos\BorderlessWindow\BorderlessWindow\obj\Release\BorderlessWindow.pdb
+C:\Users\Sébastien\source\repos\BorderlessWindow\BorderlessWindow\obj\Release\BorderlessWindow.vbprojResolveAssemblyReference.cache
